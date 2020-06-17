@@ -13,6 +13,6 @@ Ensemble learning with sklearn ( Adaboost, bagging, pasting, stacking, voting)
 
 [Adaboost](https://github.com/aniskx/Ensemble-Learning-techniques-/blob/master/AdaBoost.ipynb) : Bulding Adaboost for regression and classification
 
-[Voting Classifier]:(https://github.com/aniskx/Ensemble-Learning-techniques-/blob/master/VotingClassifier.ipynb) : classification model with soft voting 
+[Voting Classifier](https://github.com/aniskx/Ensemble-Learning-techniques-/blob/master/VotingClassifier.ipynb) : classification model with soft voting 
 
-[Gradient Boost hyperparameter tunning]:(https://github.com/aniskx/Ensemble-Learning-techniques-/blob/master/GradientBoostingHyperparameterTuning.ipynb) : Gradient boost Regeressor and tunning hyperparamter 
+[Gradient Boost hyperparameter tunning](https://github.com/aniskx/Ensemble-Learning-techniques-/blob/master/GradientBoostingHyperparameterTuning.ipynb) : Gradient boost Regeressor and tunning hyperparamter 
