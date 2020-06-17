@@ -3,7 +3,7 @@ Ensemble learning with sklearn ( Adaboost, bagging, pasting, stacking, voting)
 
 
 
-#### Recomended order to view the notebooks
+####
 ***
 [Bagging and pasting for regression ](https://github.com/aniskx/Ensemble-Learning-techniques-/blob/master/BaggingandPasting_Regression.ipynb) :Regression Ensemble Learning with bagging and pasting 
 
